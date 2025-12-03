@@ -1,0 +1,9 @@
+name = "aoc_2025_01"
+description = ""
+version = "0.1.0-dev"
+
+authors = ["Caleb Stein"]
+maintainers = ["Caleb Stein <caleb@calebstein.net>"]
+licenses = "MIT OR Apache-2.0 WITH LLVM-exception"
+website = ""
+tags = []
